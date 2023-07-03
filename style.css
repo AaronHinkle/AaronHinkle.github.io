@@ -46,14 +46,6 @@ line-height:50px;
 margin-left: 30px;
 }
 
-body {
-
-    background-size:cover;
-    background-attachment:fixed;
-    background-image: url("./images/Background.png");
-    background-repeat: no-repeat;
-}
-
 
 #pet-image
 {    width: 800px;
